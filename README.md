@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there 👋 I'm Mukhammaddiyor
+# Hi there 👋 I'm Mukhammaddiyor Ibrokhimov
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7317F&center=true&vCenter=true&width=560&lines=Full+Stack+MERN+Developer;Building+REST+APIs+with+Express+%26+NestJS;React+%7C+TypeScript+%7C+MongoDB+%7C+Node.js;Learning+AI+Agentic+Web+Development" alt="Typing SVG" />
 
