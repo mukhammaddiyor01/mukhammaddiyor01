@@ -1,43 +1,80 @@
-<div align="center">
+<p align="center">
+  <img src="./assets/profile-banner.svg" width="100%" alt="Mukhammaddiyor Ibrokhimov — Full-Stack Web Engineer. React interfaces. Thoughtful APIs. Useful products." />
+</p>
 
-# Hi there 👋 I'm Mukhammaddiyor Ibrokhimov
+<p align="center">
+  <a href="https://www.telegram.me/IMR0208"><strong>Telegram</strong></a>
+  &nbsp; / &nbsp;
+  <a href="https://www.instagram.com/muhammaddiyor_shavkatbek"><strong>Instagram</strong></a>
+  &nbsp; / &nbsp;
+  <a href="https://github.com/mukhammaddiyor01?tab=repositories"><strong>Explore my repositories ↗</strong></a>
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7317F&center=true&vCenter=true&width=560&lines=Full+Stack+MERN+Developer;Building+REST+APIs+with+Express+%26+NestJS;React+%7C+TypeScript+%7C+MongoDB+%7C+Node.js;Learning+AI+Agentic+Web+Development" alt="Typing SVG" />
+<br />
 
-<img src="https://komarev.com/ghpvc/?username=mukhammaddiyor01&color=f7317f&style=flat" alt="Profile views" />
+## A little about me
 
-</div>
+I'm **Mukhammaddiyor**, a software and media engineer building full-stack web applications with **React, TypeScript, Node.js, and MongoDB**. I enjoy connecting clear, responsive interfaces with the APIs and data behind them.
 
-## 🐍 Contributions
+- **Building:** shopping experiences, seller dashboards, and REST APIs.
+- **Growing:** my backend skills with NestJS and TypeScript.
+- **Exploring:** Python and AI-agentic web development.
+
+## Selected work
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <sub>01 / COMMERCE · FRONTEND</sub>
+      <h3><a href="https://github.com/mukhammaddiyor01/MNShop-react">MNShop — Web App ↗</a></h3>
+      <p>A shopping interface and seller workspace with product discovery, checkout screens, order management, and account settings.</p>
+      <p><code>React</code> <code>TypeScript</code> <code>Redux Toolkit</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <sub>02 / COMMERCE · BACKEND</sub>
+      <h3><a href="https://github.com/mukhammaddiyor01/mnshop">MNShop — API ↗</a></h3>
+      <p>The backend for MNShop, with authentication, product and order services, seller management, and an admin dashboard.</p>
+      <p><code>Express</code> <code>TypeScript</code> <code>MongoDB</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <sub>03 / RESTAURANT · FULL STACK</sub>
+      <h3><a href="https://github.com/mukhammaddiyor01/burak">Burak ↗</a></h3>
+      <p>A restaurant application with member accounts, product management, and order services, alongside a React frontend.</p>
+      <p><code>React</code> <code>Express</code> <code>MongoDB</code></p>
+      <p><a href="https://github.com/mukhammaddiyor01/burak">Backend</a> · <a href="https://github.com/mukhammaddiyor01/burak-react">Frontend</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <sub>04 / BACKEND · LEARNING</sub>
+      <h3><a href="https://github.com/mukhammaddiyor01/nestar">NestJS Lab ↗</a></h3>
+      <p>My space for learning NestJS: working with application structure, controllers, services, and REST API fundamentals.</p>
+      <p><code>NestJS</code> <code>TypeScript</code> <code>Node.js</code></p>
+      <p><a href="https://github.com/mukhammaddiyor01/nestar">Nestar</a> · <a href="https://github.com/mukhammaddiyor01/zoo">Zoo API</a></p>
+    </td>
+  </tr>
+</table>
+
+## My toolkit
+
+| Area | Technologies |
+| :--- | :--- |
+| **Frontend** | React · Redux Toolkit · TypeScript · JavaScript · HTML · CSS |
+| **Backend** | Node.js · Express · NestJS · REST APIs |
+| **Data & workflow** | MongoDB · Mongoose · Git · GitHub |
+| **Exploring** | Python · AI-agentic web development |
+
+## One contribution at a time
 
 <picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/mukhammaddiyor01/mukhammaddiyor01/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/mukhammaddiyor01/mukhammaddiyor01/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution snake"
-    src="https://raw.githubusercontent.com/mukhammaddiyor01/mukhammaddiyor01/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mukhammaddiyor01/mukhammaddiyor01/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mukhammaddiyor01/mukhammaddiyor01/output/github-contribution-grid-snake.svg" />
+  <img width="100%" alt="An animated snake tracing my GitHub contribution history" src="https://raw.githubusercontent.com/mukhammaddiyor01/mukhammaddiyor01/output/github-contribution-grid-snake.svg" />
 </picture>
 
-## 📈 Contribution Graph
+<br />
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mukhammaddiyor01&theme=tokyo-night&hide_border=true&bg_color=00000000&area=true" alt="Mukhammaddiyor's contribution graph" />
-</div>
-
-## 🛠 Tech Stack
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,redux,nodejs,express,nestjs,ts,js,python,mongodb,html,css,git&perline=12" alt="Tech stack" />
-</div>
-
-## 📊 Stats
-
-<div align="center">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mukhammaddiyor01&theme=tokyonight" alt="GitHub stats" />
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mukhammaddiyor01&theme=tokyonight" alt="Top languages" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=mukhammaddiyor01&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub streak" />
-</div>
+<p align="center">
+  <strong>Have an idea? Let's talk.</strong><br />
+  <a href="https://www.telegram.me/IMR0208">Find me on Telegram ↗</a>
+</p>
