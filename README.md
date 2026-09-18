@@ -34,7 +34,7 @@ I'm **Mukhammaddiyor**, a software and media engineer building full-stack web ap
       <sub>02 / COMMERCE · BACKEND</sub>
       <h3><a href="https://github.com/mukhammaddiyor01/mnshop">MNShop — API ↗</a></h3>
       <p>The backend for MNShop, with authentication, product and order services, seller management, and an admin dashboard.</p>
-      <p><code>Express</code> <code>TypeScript</code> <code>REACT NATIVE</code></p>
+      <p><code>Express</code> <code>TypeScript</code> <code>MongoDB</code></p>
     </td>
   </tr>
   <tr>
