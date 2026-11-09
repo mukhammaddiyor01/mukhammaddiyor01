@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" fill="none" role="img" aria-labelledby="title description">
-  <title id="title">Mukhammaddiyor Ibrokhimov — Full-Stack Web Engineer</title>
-  <desc id="description">A navy and cyan banner with Mukhammaddiyor's name, an abstract MI monogram, and the words React interfaces. Thoughtful APIs. Useful products.</desc>
+  <title id="title">Mukhammaddiyor Ibrokhimov — Full-Stack &amp; AI Software Engineer | DevOps</title>
+  <desc id="description">A navy and cyan banner with Mukhammaddiyor's name, an abstract MI monogram, and the words Web applications, applied AI, and DevOps.</desc>
   <defs>
     <linearGradient id="background" x1="0" y1="0" x2="1200" y2="380" gradientUnits="userSpaceOnUse">
       <stop stop-color="#0B1424"/>
@@ -27,10 +27,10 @@
     <circle cx="1112" cy="46" r="182" stroke="#74D7DF" stroke-opacity="0.07"/>
     <path d="M0 379H1200" stroke="url(#accent)" stroke-width="3"/>
     <rect x="56" y="47" width="28" height="3" rx="1.5" fill="#6AE4E2"/>
-    <text x="98" y="53" fill="#A9BACF" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="3">FULL-STACK WEB ENGINEER</text>
+    <text x="98" y="53" fill="#A9BACF" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="3">FULL-STACK &amp; AI SOFTWARE ENGINEER | DEVOPS</text>
     <text x="56" y="132" fill="#F0F6FC" font-family="Arial, Helvetica, sans-serif" font-size="53" font-weight="700" letter-spacing="-1.5">Mukhammaddiyor</text>
     <text x="56" y="194" fill="url(#accent)" font-family="Arial, Helvetica, sans-serif" font-size="53" font-weight="700" letter-spacing="-1.5">Ibrokhimov.</text>
-    <text x="58" y="238" fill="#B8C8D9" font-family="Arial, Helvetica, sans-serif" font-size="18">React interfaces. Thoughtful APIs. Useful products.</text>
+    <text x="58" y="238" fill="#B8C8D9" font-family="Arial, Helvetica, sans-serif" font-size="18">Web applications, applied AI, and DevOps.</text>
     <g font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" letter-spacing="1">
       <rect x="56" y="285" width="102" height="32" rx="16" fill="#6AE4E2" fill-opacity="0.07" stroke="#6AE4E2" stroke-opacity="0.23"/>
       <text x="107" y="306" fill="#9DE8E5" text-anchor="middle">REACT</text>
@@ -39,7 +39,7 @@
       <rect x="318" y="285" width="112" height="32" rx="16" fill="#6AE4E2" fill-opacity="0.07" stroke="#6AE4E2" stroke-opacity="0.23"/>
       <text x="374" y="306" fill="#9DE8E5" text-anchor="middle">NODE.JS</text>
       <rect x="442" y="285" width="120" height="32" rx="16" fill="#6AE4E2" fill-opacity="0.07" stroke="#6AE4E2" stroke-opacity="0.23"/>
-      <text x="502" y="306" fill="#9DE8E5" text-anchor="middle">REACT NATIVE</text>
+      <text x="502" y="306" fill="#9DE8E5" text-anchor="middle">PYTHON</text>
     </g>
     <g transform="translate(842 78)">
       <rect x="16" y="16" width="232" height="220" rx="24" stroke="#7EDCE5" stroke-opacity="0.10"/>
